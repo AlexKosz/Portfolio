@@ -1,0 +1,12 @@
+#face{
+    max-height: 200px;
+}
+
+.socLogo{
+    max-height: 75px;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+}
